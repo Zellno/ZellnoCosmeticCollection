@@ -32,3 +32,6 @@ __pycache__/
 
 # README backup
 /README.md.before-github
+
+# Steam Workshop description
+/WORKSHOP_DESCRIPTION.md
