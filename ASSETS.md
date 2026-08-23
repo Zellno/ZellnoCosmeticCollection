@@ -10,7 +10,7 @@ It is an original composition inspired by the historical Wojtek bear.
 It was not copied from a photograph, military badge or third-party illustration.
 
 The artwork may be shared and adapted for non-commercial purposes with
-attribution to Zellno. Commercial use requires separate permission.
+attribution to Zellno. Use on monetized DayZ servers is permitted only under the conditions described in the Monetization Permission section of README.md. Other commercial use requires separate permission.
 
 ## Zellno emblem
 

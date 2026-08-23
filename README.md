@@ -73,3 +73,25 @@ build/@ZellnoCosmeticCollection/
 
 This is an unofficial community project and is not affiliated with or
 endorsed by Bohemia Interactive.
+
+## Monetization Permission
+
+Zellno permits the use of Zellno Cosmetic Collection on monetized DayZ
+private-shard servers, including the offering of its cosmetic items,
+provided that the server operator is registered, approved and listed under
+Bohemia Interactive's DayZ Server Monetization program and complies with
+all applicable rules.
+
+This permission covers use of the unmodified mod and its original Zellno
+visual assets within the approved DayZ server.
+
+It does not permit standalone resale, relicensing or commercial distribution
+of the artwork or mod files, and it does not imply sponsorship or endorsement
+by Zellno.
+
+This permission does not grant rights over DayZ, Bohemia Interactive content
+or third-party mods. Server operators remain responsible for obtaining any
+other required permissions.
+
+- [Official monetization rules](https://www.bohemia.net/monetization)
+- [Approved DayZ servers](https://www.bohemia.net/monetization/approved/dayz)
