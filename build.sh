@@ -34,6 +34,10 @@ for required in \
     "$PROJECT_DIR/mod.cpp" \
     "$PROJECT_DIR/meta.cpp" \
     "$PROJECT_DIR/README.md" \
+    "$PROJECT_DIR/LICENSE" \
+    "$PROJECT_DIR/ASSETS.md" \
+    "$PROJECT_DIR/PROVENANCE.md" \
+    "$PROJECT_DIR/CHANGELOG.md" \
     "$FILEBANK" \
     "$BANKREV" \
     "$DSSIGNFILE" \
@@ -79,6 +83,10 @@ cp "$PUBLIC_KEY" "$BUILD_KEYS/Zellno.bikey"
 cp "$PROJECT_DIR/mod.cpp" "$BUILD_MOD/mod.cpp"
 cp "$PROJECT_DIR/meta.cpp" "$BUILD_MOD/meta.cpp"
 cp "$PROJECT_DIR/README.md" "$BUILD_MOD/README.md"
+cp "$PROJECT_DIR/LICENSE" "$BUILD_MOD/LICENSE"
+cp "$PROJECT_DIR/ASSETS.md" "$BUILD_MOD/ASSETS.md"
+cp "$PROJECT_DIR/PROVENANCE.md" "$BUILD_MOD/PROVENANCE.md"
+cp "$PROJECT_DIR/CHANGELOG.md" "$BUILD_MOD/CHANGELOG.md"
 
 VERIFY_OUTPUT="$(
     wine "$DSCHECK" \

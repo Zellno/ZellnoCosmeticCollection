@@ -35,3 +35,6 @@ __pycache__/
 
 # Steam Workshop description
 /WORKSHOP_DESCRIPTION.md
+
+# Build script backup
+/build.sh.before-workshop-docs
