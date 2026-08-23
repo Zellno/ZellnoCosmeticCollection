@@ -1,0 +1,10 @@
+name = "Zellno Cosmetic Collection";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "Zellno Cosmetic Collection";
+overview = "A free commemorative cosmetic T-shirt featuring the Zellno emblem and Wojtek.";
+action = "";
+author = "Zellno";
+version = "0.1.0";

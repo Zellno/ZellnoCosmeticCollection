@@ -1,0 +1,34 @@
+# Generated builds
+/build/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Private signing material
+*.biprivatekey
+*.pem
+*.key
+
+# Extracted vanilla references
+/source/textures/wojtek_tshirt_black_base.png
+/source/textures/wojtek_tshirt_co_work.png
+/source/textures/wojtek_tshirt_co_work.xcf
+
+# Editable file containing vanilla data
+/source/textures/wojtek_tshirt_co_v2.xcf
+
+# Derived intermediate exports
+/source/textures/wojtek_tshirt_co.png
+/source/textures/wojtek_tshirt_co.paa
+
+# Documentation backups
+/documentation-backup-*/
+
+# Temporary files
+*~
+*.swp
+*.tmp
+
+# README backup
+/README.md.before-github
